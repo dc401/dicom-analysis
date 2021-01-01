@@ -15,5 +15,7 @@ At the end of this article you should be able to:
     between the two vendors
 -   Understand the security implications and compensating controls needed  
     around these systems
-    ![enter image description here](https://github.com/dc401/dicom-analysis/blob/main/dicom-tutorial-preview.png?raw=true)
+    
+
+![enter image description here](https://github.com/dc401/dicom-analysis/blob/main/dicom-tutorial-preview.png?raw=true)
 ![enter image description here](https://github.com/dc401/dicom-analysis/blob/main/dicom-tutorial-preview2.png?raw=true)
